@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: kpilabsiit/lab4.2:latest
+          tags: kpilabsiit/lab4.3:latest
