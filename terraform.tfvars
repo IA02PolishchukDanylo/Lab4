@@ -1,2 +1,0 @@
- access_key = "AKIATSIF35XNUT6VHBUY"
-  secret_key = "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"
